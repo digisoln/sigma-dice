@@ -8,3 +8,6 @@ else:
 print("Side by side:", score)
 print("Sum of both:", dice1+dice2)
 print("goodbye")
+
+print("well i've added this as the qld user account")
+print("now its good to go")
