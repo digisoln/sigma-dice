@@ -1,6 +1,6 @@
 import random
-dice1 = random.randint(1,6)
-dice2 = random.randint(1,6)
+dice1 = random.randint(1,9)
+dice2 = random.randint(1,9)
 if dice1 > dice2:
     score = str(dice1) + str(dice2)
 else:
